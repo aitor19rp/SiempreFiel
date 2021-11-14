@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "852869273948",
+    "firebase_url": "https://siemprefiel-d6104.firebaseio.com",
+    "project_id": "siemprefiel-d6104",
+    "storage_bucket": "siemprefiel-d6104.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852869273948:android:2b4e4520ae0d391cafc999",
+        "android_client_info": {
+          "package_name": "com.aitorramos.siemprefiel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852869273948-vnikjuhkqtgd1dsmfif4snmmjl8ufl5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByem2F3NzpdVo_x3WrgSth5yxyjke42io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852869273948-vnikjuhkqtgd1dsmfif4snmmjl8ufl5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

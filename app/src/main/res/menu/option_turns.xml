@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/newTurn"
+        android:title="Añadir al turno"/>
+
+    <item
+        android:id="@+id/turnInfo"
+        android:title="Información del turno"/>
+
+    <item
+        android:id="@+id/requestTurn"
+        android:title="Solicitar turno"/>
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Siempre Fiel</string>
+    <string name="open_drawer">Menu abierto</string>
+    <string name="close_drawer">Menu cerrado</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
